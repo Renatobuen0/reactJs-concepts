@@ -16,6 +16,7 @@ div {
 div li {
   display: flex;
   align-items: center;
+  flex-direction: column;
 }
 
 div li + li {
